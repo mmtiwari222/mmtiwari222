@@ -22,8 +22,6 @@ Skills: HTML / CSS / Tailwind / JS / ReactJs / NodeJs / NextJs / Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mmtiwari222&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mmtiwari222/contributions?format=svg&private=false)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mmtiwari222)  
 
 
