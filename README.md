@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, my name is Madanmohan </h1>
 <h3 align="center">I am Full Stack Web Developer from India.</h3> 
-![I am Full Stack Web Developer from India.](https://user-images.githubusercontent.com/38730778/214901429-9a5944da-6de9-484c-ae4c-5f4aa899793c.png)
+<h3 align="center">![I am Full Stack Web Developer from India.](https://user-images.githubusercontent.com/38730778/214901429-9a5944da-6de9-484c-ae4c-5f4aa899793c.png)</h3>
 
 I am Madanmohan Tiwari. I enjoy solving technical problems, researching and developing new technologies, and designing web pages. I enjoy meeting people and working with them in a team environment.
 
