@@ -4,13 +4,16 @@
 
 I am Madanmohan Tiwari. I enjoy solving technical problems, researching and developing new technologies, and designing web pages. I enjoy meeting people and working with them in a team environment.
 
-Skills: HTML / CSS / Tailwind / JS / ReactJs / NodeJs / NextJs / Python
-
 - 🌱 I’m currently learning MERN Stack  
 - 👯 I’m looking to collaborate on MERN Projects 
 - 💬 Ask me about JavaScript and ReactJs 
 - 📫 How to reach me: mmtiwari222@gmail.com 
 
+<h1 align="center">Programming Language</h1>
+
+![C++]++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript(https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mmtiwari222)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/madanmohan-tiwari/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mmtiwari_01/)  
 
