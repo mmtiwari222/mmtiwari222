@@ -25,6 +25,6 @@ I am Madanmohan Tiwari. I enjoy solving technical problems, researching and deve
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mmtiwari222&show_icons=true)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
 
 
