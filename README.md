@@ -1,11 +1,11 @@
 <h1 align="center"> Hi there 👋, my name is Madanmohan </h1>
-<h3 align="center">I am Full Stack Web Developer from India.</h3> 
+<h3 align="center">I am Data-driven Web Developer from India.</h3> 
 
 I am Madanmohan Tiwari. I enjoy solving technical problems, researching and developing new technologies, and designing web pages. I enjoy meeting people and working with them in a team environment.
 
-- 🌱 I’m currently learning MERN Stack  
-- 👯 I’m looking to collaborate on MERN Projects 
-- 💬 Ask me about JavaScript and ReactJs 
+- 🌱 I’m currently learning Data Science & AI based software development.  
+- 👯 I’m looking to collaborate on Data Science & AI based projects. 
+- 💬 Ask me about Data Science, AI and Software Development 
 - 📫 How to reach me: mmtiwari222@gmail.com 
 
 <h1 align="center">Programming Language</h1>
