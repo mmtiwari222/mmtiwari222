@@ -81,10 +81,6 @@
 ---
 
 ### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmtiwari222&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats-pi-puce.vercel.app?user=mmtiwari222" alt="GitHub streak" />
 </p>
